@@ -17,7 +17,7 @@
     --teal: #20c997;
     --cyan: #17a2b8;
     --white: #fff;
-    --gray: #6c757d;
+    --gray: #414547;
     --gray-dark: #343a40;
     --primary: #78d5ef;
     --secondary: #6c757d;
@@ -61,7 +61,7 @@ body {
     font-size: 1rem;
     font-weight: 400;
     line-height: 1.5;
-    color: #212529;
+    color: #121314;
     text-align: left;
     background-color: #fff; }
 
@@ -7289,7 +7289,8 @@ body {
     font-size: 16px;
     line-height: 1.8;
     font-weight: 300;
-    color: #8b8b92; }
+    color: #1e1e1f; 
+}
 
 a {
     -webkit-transition: .3s all ease;
